@@ -1,0 +1,2 @@
+# CJ
+This is my first repository
